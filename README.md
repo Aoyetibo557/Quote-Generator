@@ -3,3 +3,6 @@
 To run this program you need a VSC with a live server extension.
 
 @DEV - @Aoyetibo557 @DATE - 09/28/20
+
+Delopyed on Heroku @
+# https://r-q-gen.herokuapp.com/
